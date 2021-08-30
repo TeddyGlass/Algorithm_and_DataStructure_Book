@@ -8,7 +8,7 @@
 <h3> 章組み </h3>
 
 2. [計算量とオーダー表記](https://github.com/TeddyGlass/Algorithm_and_DataStructure_Book/blob/main/notebook/oder.ipynb)
-3. [設計技法 (1) 全探索]()
+3. [設計技法 (1) 全探索](https://github.com/TeddyGlass/Algorithm_and_DataStructure_Book/tree/main/notebook)
 4. [設計技法 (2) 再帰と分割統治法]()
 5. [設計技法 (3) 動的計画法]()
 6. [設計技法 (4) 二分探索法]()
